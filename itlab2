@@ -4,7 +4,6 @@
 </head>
 <frameset rows="10%,40%,10%,20%,40%">
 <frame name="first" src="/home/section1/2016cse021/prog7.html"/>
-<frame name="secound" src="/home/section1/2016cse021/prog8.html"/>
 <frame name="third" src="/home/section1/2016cse021/prog9.html"/>
 <frame name="fourth" src="/home/section1/2016cse021/prog11.html"/>
 <frame name="fifth" src="/home/section1/2016cse021/prog10.html"/>
